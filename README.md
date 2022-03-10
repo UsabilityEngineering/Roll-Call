@@ -1,19 +1,14 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Roll Call
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project's vision!!!
+Roll Call will be an application for teachers to learn more about their students to improve and personalize education.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Kevin Buffardi](https://kbuffardi.github.io/UXPortfolio)** - Kevin conducted Research Gathering research and wrote the report
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](personas.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
